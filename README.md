@@ -1,11 +1,11 @@
-About colcon-zsh
-================
+About colcon-zsh-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/colcon-zsh-feedstock/blob/main/LICENSE.txt)
 
 Home: https://colcon.readthedocs.io
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/colcon-zsh-feedstock/blob/main/LICENSE.txt)
 
 Summary: Extension for colcon to provide Z shell scripts.
 
